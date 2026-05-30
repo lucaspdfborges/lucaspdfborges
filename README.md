@@ -1,9 +1,5 @@
 ## Hi, I'm Lucas Borges 👋
 
-Full Stack Software Developer.
-
-### Languages and tools
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +30,6 @@ Full Stack Software Developer.
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=lucaspdfborges&style=for-the-badge)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspdfborges&show_icons=true)
 
 <br/>
 <br/>
