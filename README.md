@@ -35,8 +35,6 @@ Full Stack Software Developer 🇧🇷 Based in Brazil, working remotely
 
 ![](https://komarev.com/ghpvc/?username=lucaspdfborges&style=for-the-badge)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspdfborges&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=lucaspdfborges)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspdfborges)
 
 <br/>
 <br/>
