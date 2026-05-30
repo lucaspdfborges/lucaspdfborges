@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas Borges 👋
 
-Full Stack Software Developer 🇧🇷 Based in Brazil, working remotely
+Full Stack Software Developer.
 
 ### Languages and tools
 
