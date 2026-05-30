@@ -1,28 +1,8 @@
 ## Hi, I'm Lucas Borges 👋
 
-<!--
-**lucaspdfborges/lucaspdfborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Developer 🇧🇷 Based in Brazil, working remotely
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Full Stack Software Developer passionate about building reliable, scalable, and maintainable software.
-
-* 🇧🇷 Based in Brazil, working remotely;
-* ⚙️ I love engineering solutions;
-* 🔄 Not afraid of refactoring;
-* ☁️ Interested in cloud-native architectures and infrastructure as code;
-
-## Languages and tools
+### Languages and tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,6 +34,9 @@ Full Stack Software Developer passionate about building reliable, scalable, and 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=lucaspdfborges&style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspdfborges&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lucaspdfborges)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=lucaspdfborges)
 
 <br/>
 <br/>
