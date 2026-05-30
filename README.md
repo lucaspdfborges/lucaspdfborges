@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Lucas Borges 👋
 
 <!--
 **lucaspdfborges/lucaspdfborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Lucas Borges, a Full Stack Software Developer!
+Full Stack Software Developer passionate about building reliable, scalable, and maintainable software.
+
+* 🇧🇷 Based in Brazil, working remotely;
+* ⚙️ I love engineering solutions;
+* 🔄 Not afraid of refactoring;
+* ☁️ Interested in cloud-native architectures and infrastructure as code;
+
+## Languages and tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,6 +49,11 @@ I'm Lucas Borges, a Full Stack Software Developer!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+<br/>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=lucaspdfborges&style=for-the-badge)
 
 <br/>
 <br/>
