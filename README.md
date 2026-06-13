@@ -1,5 +1,7 @@
 ## Hi, I'm Lucas Borges 👋
 
+Back-end developer focused on writing code that is fast, secure and mantainable.
+
 <br>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -27,11 +29,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5A80A7?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-8EAEC6?style=for-the-badge&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
-<br/>
-<br/>
-
-![](https://komarev.com/ghpvc/?username=lucaspdfborges&style=for-the-badge)
 
 <br/>
 <br/>
